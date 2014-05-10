@@ -1,6 +1,6 @@
 {
   "name": "ogg-preview",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Preview OGG files in Atom",
   "main": "./lib/main",
   "repository": "https://github.com/hemantasapkota/ogg-preview",
